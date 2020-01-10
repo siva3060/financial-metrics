@@ -1,4 +1,6 @@
+package project.financialmetrics.service;
 
+import project.financialmetrics.model.Account;
 
 public interface  AccountService{
 
